@@ -8,6 +8,7 @@ uses
 begin
   Writeln('Hello, World from Delphi!');
   Writeln('This is the console application');
+  Writeln('This is SPARTA!!!');
   Writeln;
   Writeln('Press <Enter> to quit.');
   Readln; 
